@@ -94,7 +94,7 @@ window.setTimeout("waktu()", 1000);
 	}
 
 // Count Down Natal
-var countDownDate = new Date("Des 24, 2023 00:00:00").getTime();
+var countDownDate = new Date("Desember 24, 2023 00:00:00").getTime();
 
 var x = setInterval(function() {
   var now = new Date().getTime();
